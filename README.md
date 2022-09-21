@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @aGiorlandino
-- 👀 Statistichal Mechanics and Complex Systems
-- 🌱 Physics of Data @ UniPd
+-  Hi, I’m @aGiorlandino
+-  Statistichal Mechanics and Complex Systems
+-  Physics of Data @ UniPd 
+-  Visiting student @ ENS Paris
 - 📫 alessiogiorlandino@gmail.com
 
 <!---
