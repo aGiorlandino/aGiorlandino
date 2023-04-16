@@ -1,7 +1,5 @@
 -  Hi, I’m @aGiorlandino
--  Statistichal Mechanics and Complex Systems
--  Physics of Data @ UniPd 
--  Visiting student @ ENS Paris
+-  Physics MSc @ UniPd and Intern at LPENS
 - 📫 alessiogiorlandino@gmail.com
 
 <!---
