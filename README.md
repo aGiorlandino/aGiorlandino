@@ -1,5 +1,5 @@
 -  Hi, I’m @aGiorlandino
--  Physics MSc @ UniPd and Intern at LPENS
+-  PhD student @ SISSA - Neural Network Group
 - 📫 alessiogiorlandino@gmail.com
 
 <!---
