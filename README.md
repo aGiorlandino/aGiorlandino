@@ -1,5 +1,5 @@
 -  Hi, I’m @aGiorlandino
--  PhD student @ SISSA - Neural Network Group
+-  PhD student @ SISSA - Theory of Neural Networks Group
 - 📫 alessiogiorlandino@gmail.com / agiorlan@sissa.it
 
 <!---
